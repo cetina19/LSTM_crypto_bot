@@ -5,5 +5,5 @@ This project is part of my internship at **Artifik**, where I developed a crypto
 
 ### Key Features:
 - **Peruvian Sol (PEN)** (Pearson Correlation = 0.82) and **Turkish Lira (TRY)** (Pearson Correlation = 0.71) were used as features to predict ETH price.
-- The **model accuracy** achieved is above 80%.
+- The **model accuracy** achieved is above 80%. **Profits** are close to 4%.
 - **Final results**, including model performance and predictions, can be found in the **Results** folder.
